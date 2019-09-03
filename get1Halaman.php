@@ -2,7 +2,7 @@
 <hr>
 <PRE>
     <form name="test" method="GET" action="">
-        nama : <input type="text" name="nama">
+        name : <input type="text" name="nama">
         <input type="submit" name="kirim" value="tekan untuk kirim">
     </form>
 </PRE>

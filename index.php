@@ -13,6 +13,7 @@
     echo "pengiriman Metode GET melalui Link = <a href=getProses.php?nama=$nama&umur=$umur>Klik Ini</a>";
     echo "<br>";
     echo "metode GET pada form 1 halaman = <a href=get1Halaman.php>Klik Ini</a>";
-    
-
+    echo "<br>";
+    echo "metode GET pada form 2 halaman = <a href=get2Halaman.php>Klik Ini</a>";
+    echo "<br>";
 ?>
