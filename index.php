@@ -10,7 +10,9 @@
     // }
     echo "<center>nama saya $nama umur saya $umur<center>";
 
-    echo "pengiriman Metode GET melalui Link = <a href=getProses.php?nama=$nama&umur=$umur>Klik Ini</a>"
-
+    echo "pengiriman Metode GET melalui Link = <a href=getProses.php?nama=$nama&umur=$umur>Klik Ini</a>";
+    echo "<br>";
+    echo "metode GET pada form 1 halaman = <a href=get1Halaman.php>Klik Ini</a>";
+    
 
 ?>
