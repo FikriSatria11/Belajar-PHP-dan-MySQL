@@ -17,4 +17,6 @@
     echo "metode GET pada form 2 halaman = <a href=get2Halaman.php>Klik Ini</a>";//get2halaman/proses.php
     echo "<br>";
     echo "metode POST pada form 1 halaman = <a href=post1Halaman.php>Klik Ini</a>";//post1halaman.php
+    echo "<br>";
+    echo "metode POST pada form 2 halaman = <a href=post2Halaman.php>Klik Ini</a>";//post2halaman/proses.php
 ?>
